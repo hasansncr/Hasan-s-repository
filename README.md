@@ -1,9 +1,6 @@
 # Hasan-s-repository
-# sfsef
-## fwgg 
+
+
+## ***Patika.dev ödevlerini repolamak için oluşturulmuştur.***
 ------
-''' 
-  python
-  [Hello World)
-'''
-------
+[Patika Anasayfası](https://app.patika.dev/)
